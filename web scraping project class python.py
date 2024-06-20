@@ -31,5 +31,3 @@ for i in range(0, value, 2):
         batch = batch + 1
         print(f"avg [{batch}] : { total / 5}")
         print("-------------------------")
-        total = 0
-        count = 0
